@@ -40,7 +40,7 @@ pip install -r requirements.txt
      4) Merging_Modeling_Analysis_github.ipynb; **NOTE**:  You can run only the final notebook (Merging_Modeling_Analysis_github.ipynb) if you'd like to skip the cleaning steps. Cluster outputs are already included in the root directory as .csv files. 
 
 ## Project Structure
-- speed_dating/ — Contains Speed Dating Jupyter Notebook File
+- speed_dating/ — Contains Speed Dating Jupyter Notebook File and Speed_Dating_Dataset_Key_Excel.csv (used for manually cleaning speed dating dataset)
 - okcupid/ — Contains OKCupid profiles Jupyter Notebook Files
 - big_five/ — Contains Big Five personality Jupyter Notebook Files
 - Merging_Modeling_Analysis_github.ipynb — Main Jupyter Notebook for merging datasets, training models, and analysis
