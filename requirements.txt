@@ -1,0 +1,9 @@
+pandas
+matplotlib
+seaborn
+numpy
+wordcloud
+textblob
+scikit-learn
+imbalanced-learn
+xgboost
